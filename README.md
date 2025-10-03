@@ -256,4 +256,6 @@ O backend está 100% funcional e pronto para ser consumido. O frontend possui um
 
     Componentes reutilizáveis
 
+    Adicionar cache no backend(Redis)
+
 As funcionalidades pendentes podem ser implementadas incrementalmente seguindo os mesmos padrões já estabelecidos no código.
